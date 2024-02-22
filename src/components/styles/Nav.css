@@ -51,3 +51,16 @@
     transform: scaleX(1);
     transform-origin: bottom left;
 }
+
+.nav-cart {
+    list-style: none;
+    color: rgb(246, 240, 190);
+}
+
+.cart-img {
+    width: 40%;
+}
+
+.cart-count {
+    font-size: 1.5rem;
+}
